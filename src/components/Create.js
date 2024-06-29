@@ -28,7 +28,7 @@ function Create() {
 		let a = name,
 			b = age;
 		if (name == "" || age == "") {
-			alert("invalid input");
+			alert("given invalid input");
 			return;
 		}
 
